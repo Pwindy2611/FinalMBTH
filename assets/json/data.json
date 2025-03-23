@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sản phẩm A",
+    "idCategory": 1,
+    "linkImage": "https://fagopet.vn/storage/in/r5/inr5f4qalj068szn2bs34qmv28r2_phoi-giong-meo-munchkin.webp",
+    "description": "Mô tả về sản phẩm A"
+  },
+  {
+    "id": 2,
+    "name": "Sản phẩm B",
+    "idCategory": 2,
+    "linkImage": "https://fagopet.vn/storage/in/r5/inr5f4qalj068szn2bs34qmv28r2_phoi-giong-meo-munchkin.webp",
+    "description": "Mô tả về sản phẩm B"
+  },
+  {
+    "id": 3,
+    "name": "Sản phẩm C",
+    "idCategory": 3,
+    "linkImage": "https://fagopet.vn/storage/in/r5/inr5f4qalj068szn2bs34qmv28r2_phoi-giong-meo-munchkin.webp",
+    "description": "Mô tả về sản phẩm C"
+  }
+]

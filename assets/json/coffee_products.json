@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Giày Nike SB Malor Nam - Camo",
+      "idCategory": 1,
+      "linkImage": "https://myshoes.vn/image/cache/catalog/2025/nike/giay-nike-sb-malor-nam-camo-01-500x500.jpg",
+      "description": "Giày Nike SB Malor Nam - Camo",
+      "price": 1990000
+    },
+    {
+      "id": 2,
+      "name": "Giày Nike Pegasus 41 GORE-TEX Nam - Xám",
+      "idCategory": 1,
+      "linkImage": "https://myshoes.vn/image/cache/catalog/2025/nike/giay-nike-pegasus-41-gore-tex-nam-xam-01-500x500.jpg",
+      "description": "Giày Nike Pegasus 41 GORE-TEX Nam - Xám",
+      "price": 3990000
+    },
+    {
+      "id": 3,
+      "name": "Giày Nike Pegasus 41 Premium Nam - Camo",
+      "idCategory": 1,
+      "linkImage": "https://myshoes.vn/image/cache/catalog/2025/nike/giay-nike-pegasus-41-premium-nam-camo-01-500x500.jpg",
+      "description": "Giày Nike Pegasus 41 Premium Nam - Camo",
+      "price": 3790000
+    },
+    {
+      "id": 4,
+      "name": "Giày Nike Air Zoom Structure 25 Nam - Xám Trắng",
+      "idCategory": 1,
+      "linkImage": "https://myshoes.vn/image/cache/catalog/2025/nike/giay-nike-air-zoom-structure-25-nam-xam-trang-01-500x500.jpg",
+      "description": "Giày Nike Air Zoom Structure 25 Nam - Xám Trắng",
+      "price": 2990000
+    },
+    {
+      "id": 5,
+      "name": "Giày Nike Rival Fly 4 Nam - Trắng Đỏ Japan",
+      "idCategory": 1,
+      "linkImage": "https://myshoes.vn/image/cache/catalog/2025/nike/giay-nike-rival-fly-4-nam-trang-do-japan-01-500x500.jpg",
+      "description": "Giày Nike Rival Fly 4 Nam - Trắng Đỏ Japan",
+      "price": 2590000
+    },
+    {
+      "id": 6,
+      "name": "Giày Nike Rival Fly 4 Nam - Cam Trắng",
+      "idCategory": 1,
+      "linkImage": "https://myshoes.vn/image/cache/catalog/2025/nike/giay-nike-rival-fly-4-nam-cam-trang-01-500x500.jpg",
+      "description": "Giày Nike Rival Fly 4 Nam - Cam Trắng",
+      "price": 2590000
+    },
+    {
+      "id": 7,
+      "name": "Casio Nam AE-1200WHD-1AVDF",
+      "idCategory": 2,
+      "linkImage": "https://www.watchstore.vn/images/products/2024/resized/1-khung-sp-6676612-1785849039-1712483084.jpg",
+      "description": "Casio Nam AE-1200WHD-1AVDF",
+      "price": 1129000
+    },
+    {
+      "id": 8,
+      "name": "Casio MTP Nam MTP-1374L-1AVDF",
+      "idCategory": 2,
+      "linkImage": "https://www.watchstore.vn/images/products/2024/06/14/resized/mtp-1374l-1avdf_1718337912.jpg",
+      "description": "Casio MTP Nam MTP-1374L-1AVDF",
+      "price": 1702000
+    },
+    {
+      "id": 9,
+      "name": "Orient SK Nam RA-AA0B02R39B (RA-AA0B02R19B)",
+      "idCategory": 2,
+      "linkImage": "https://www.watchstore.vn/images/products/2024/resized/ra-aa0b02r19b-2081811590-287106387-1712482956.jpg",
+      "description": "Orient SK Nam RA-AA0B02R39B (RA-AA0B02R19B)",
+      "price": 6400000
+    },
+    {
+      "id": 10,
+      "name": "Balo Chất Lượng Cao, Siêu Bền Chắc & Tiện ích, Thiết Kế Đa Năng ROKIN VELOCITY",
+      "idCategory": 3,
+      "linkImage": "https://bizweb.dktcdn.net/thumb/large/100/044/266/products/balo-nam-cuc-chat-sieu-ben-chac-thiet-ke-tien-ich-fix-laptop-15-6-inch-rokin-velocity-18.jpg?v=1722913592107",
+      "description": "Balo Chất Lượng Cao, Siêu Bền Chắc & Tiện ích, Thiết Kế Đa Năng ROKIN VELOCITY",
+      "price": 590000
+    },
+    {
+      "id": 11,
+      "name": "Túi Du Lịch/ Gym Cao Cấp KINGBAG SKY",
+      "idCategory": 3,
+      "linkImage": "https://bizweb.dktcdn.net/thumb/large/100/044/266/products/tui-du-lich-kingbag-sky-1.jpg?v=1694270324180",
+      "description": "Túi Du Lịch/ Gym Cao Cấp KINGBAG SKY",
+      "price": 390000
+    }
+  ]

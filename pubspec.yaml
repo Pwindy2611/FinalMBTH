@@ -1,0 +1,37 @@
+name: app_json
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0-334.4.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.2
+  dio: ^5.8.0+1
+  path_provider: ^2.1.5
+  image_picker: ^1.1.2
+  provider: ^6.1.2
+  permission_handler: ^11.4.0
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/json/
+    - assets/images/
+
+
+

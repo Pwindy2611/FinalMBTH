@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Điện tử",
+    "desc": "Các sản phẩm điện tử"
+  },
+  {
+    "id": 2,
+    "name": "Thời trang",
+    "desc": "Các sản phẩm thời trang"
+  },
+  {
+    "id": 3,
+    "name": "Gia dụng",
+    "desc": "Các sản phẩm gia dụng"
+  }
+]
