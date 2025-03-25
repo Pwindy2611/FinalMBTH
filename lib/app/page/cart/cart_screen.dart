@@ -8,7 +8,7 @@ class CartScreen extends StatelessWidget {
   const CartScreen({super.key});
 
   // Hàm định dạng số tiền
-  String formatPrice(int price) {
+  String formatPrice(int price) { 
     final formatter = NumberFormat("#,###", "vi_VN");
     return "${formatter.format(price)} đ";
   }

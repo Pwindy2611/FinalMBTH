@@ -42,7 +42,7 @@ class MainApp extends StatelessWidget {
         textSelectionTheme: const TextSelectionThemeData(
           cursorColor: Color(0xFF00A2FF), // Đặt màu dấu nháy (cursor)
         ),
-      ),
+      ), 
       home: const LoginScreen(),
       onGenerateRoute: AppRoute.onGenerateRoute,
       // initialRoute: "/",

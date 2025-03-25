@@ -284,8 +284,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                     itemBuilder: (context, index) {
                       final product = filteredProducts[index];
                       return GestureDetector(
-                        onLongPressStart: (_) => _handleLongPressStart(index),
-                        onLongPressEnd: (_) => _handleLongPressEnd(product),
+                        onTap: () => _showAddToCartDialog(context, product),
                         child: AnimatedBuilder(
                           animation: _animationController,
                           builder: (context, child) {

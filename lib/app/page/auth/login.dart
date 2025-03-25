@@ -2,6 +2,7 @@ import 'package:app_json/app/page/register.dart';
 import 'package:flutter/material.dart';
 import 'package:app_json/app/model/register.dart';
 import 'package:app_json/mainpage.dart';
+import 'package:flutter_svg/svg.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -62,11 +63,14 @@ class _LoginScreenState extends State<LoginScreen> {
               child: Column(
                 children: [
                   // Replace with your actual logo asset
-                  Image.asset(
-                    'assets/images/logo.png',
-                    errorBuilder: (context, error, stackTrace) =>
-                        const Icon(Icons.image),
-                  ),
+                  SvgPicture.asset(
+                      'assets/images/logo.svg',
+                      width: 100, // Điều chỉnh kích thước nếu cần
+                      height: 100,
+                      colorFilter: ColorFilter.mode(Colors.blue, BlendMode.srcIn), // Đổi màu SVG
+                      placeholderBuilder: (context) => const Icon(Icons.image, size: 50), // Hiển thị icon nếu lỗi
+                    ),
+                    SizedBox(height: 10,),
                   const Text(
                     "LOGIN INFORMATION",
                     style: TextStyle(fontSize: 24, color: Colors.blue),
